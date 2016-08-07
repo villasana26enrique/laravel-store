@@ -1,0 +1,22 @@
+body{
+	background-color: #80cbc4;
+}
+
+
+#caja_botones{
+	margin-top: 30px;
+}
+
+#contenedor_slider{
+	margin-top: 7px;
+}
+
+#admin{
+	background-color: #455a64
+}
+
+#barra_admin{
+	height: 100px;
+	width: 100%;
+	background-color: #80cbc4;
+}
